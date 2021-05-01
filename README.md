@@ -1,4 +1,4 @@
-# EncryptPy
+# Encrypt Python3
 Tools anti kang recode 😎
 Support only python3 not python2
 
@@ -15,7 +15,7 @@ Support only python3 not python2
 ### Result✨
 <p align="center">
   <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
-     <img alt="SyborgSyndicate/EncryptPy" height="60%" width="100%" src=""/>
+     <img alt="SyborgSyndicate/EncryptPy" height="60%" width="100%" src="IMG_20210501_151450.jpg"/>
   </a>
 </p>
 
